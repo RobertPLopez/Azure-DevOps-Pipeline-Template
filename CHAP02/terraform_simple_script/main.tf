@@ -7,6 +7,8 @@ resource "azurerm_resource_group" "rg" {
   }
 }
 
+#The above template provisions a resource group that will be stored in the West Europe locaion
+
 resource "azurerm_virtual_network" "vnet" {
   name                = "book-vnet"
   location            = "West Europe"
@@ -20,6 +22,9 @@ resource "azurerm_subnet" "subnet" {
   resource_group_name  = azurerm_resource_group.rg.name
   address_prefix       = "10.0.10.0/24"
 }
+
+#The above code creates a vnet and vsubnet. All the dependencies between the resources, we do not put in clear IDs, but we use pointers on the terraform resources. 
+#The above network creation files are the property of the resource group with the azurerm_resource_group.rg.name, this explicitlt links the two networks together. 
 
 resource "azurerm_network_interface" "nic" {
   name                = "book-nic"
@@ -86,4 +91,10 @@ resource "azurerm_virtual_machine" "vm" {
     storage_uri = azurerm_storage_account.stor.primary_blob_endpoint
   }
 }
+
+#The above resource define the provisioning code for a azure virtual machine, which is composed of the following components: 
+# A network interface
+# A public IP
+# An azure storage object for diagnostic boot (boot informatin logs)
+# A virtual machine 
 
