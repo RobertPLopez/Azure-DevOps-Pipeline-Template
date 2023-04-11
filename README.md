@@ -71,16 +71,3 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * DevOps Adoption Strategies: Principles, Processes, Tools, and Trends [[Packt]](https://www.packtpub.com/product/devops-adoption-strategies-principles-processes-tools-and-trends/9781801076326) [[Amazon]](https://www.amazon.com/DevOps-Adoption-Strategies-Principles-Processes-ebook/dp/B0968VNHM5)
 
 * Modern DevOps Practices [[Packt]](https://www.packtpub.com/product/modern-devops-practices/9781800562387) [[Amazon]](https://www.amazon.com/Modern-DevOps-Practices-cutting-edge-techniques-ebook/dp/B097DQNQZ3)
-
-## Get to Know the Author
-**Mikael Krief**
-He loves to share his passion through various communities such as the HashiCorp User Group. In 2019, he wrote the first edition of this book, and in 2020, he wrote Terraform Cookbook (Packt Publishing), and also contributes to many public projects, writes blogs and books, and speaks at conferences.
-He is interested in HashiCorp products and specializes in the use of Terraform in several company contexts.
-For all his contributions and passion, he has received the Microsoft Most Valuable Professional (MVP) award, which Microsoft has awarded him for the last 6 years and he has been nominated and selected as a Hashicorp Ambassador since 2020.
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781801818964">https://packt.link/free-ebook/9781801818964 </a> </p>
