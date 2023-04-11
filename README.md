@@ -59,15 +59,3 @@ With the following software and hardware list you can run all code files present
 | 15       | LaunchDarkly 						  | Windows, Mac OS X, and Linux (Any) |
 | 16       | Github 							  | Windows, Mac OS X, and Linux (Any) |
 
-## Code in Action
-
-Click on the following link to see the Code in Action:
-
-(https://bit.ly/36xzV7u)
-
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781801818964_ColorImages.pdf).
-
-### Related products <Other books you may enjoy>
-* DevOps Adoption Strategies: Principles, Processes, Tools, and Trends [[Packt]](https://www.packtpub.com/product/devops-adoption-strategies-principles-processes-tools-and-trends/9781801076326) [[Amazon]](https://www.amazon.com/DevOps-Adoption-Strategies-Principles-Processes-ebook/dp/B0968VNHM5)
-
-* Modern DevOps Practices [[Packt]](https://www.packtpub.com/product/modern-devops-practices/9781800562387) [[Amazon]](https://www.amazon.com/Modern-DevOps-Practices-cutting-edge-techniques-ebook/dp/B097DQNQZ3)
